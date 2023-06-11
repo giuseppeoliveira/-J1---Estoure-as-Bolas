@@ -5,13 +5,13 @@
 <h2>Usage:</h2>
 <p>To play the "Dot-Game" project, follow these steps:</p>
 <ul>
-  <li><strong>Through the browser:</strong> You can play the game directly in your web browser by accessing the following link: <a href="https://giuseppeoliveira.github.io/Game-1/">Game-1</a>.</li>
+  <li><strong>Through the browser:</strong> You can play the game directly in your web browser by accessing the following link: <a href="https://giuseppeoliveira.github.io/Game-1/">Dot-Game</a>.</li>
   <li><strong>Installation:</strong> If you prefer to install the game on your local machine, you can do so by following these steps:
     <ol>
       <li>Open the terminal or command prompt on your computer.</li>
       <li>Navigate to the directory where you want to store the project.</li>
       <li>Execute the command <code>git clone https://github.com/giuseppeoliveira/Dot-Game.git</code> to clone the repository to your machine.</li>
-      <li>Access the project directory by executing the command <code>cd Game-1</code>.</li>
+      <li>Access the project directory by executing the command <code>cd Dot-Game</code>.</li>
       <li>Open the <code>index.html</code> file in your web browser.</li>
     </ol>
   </li>
