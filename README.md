@@ -2,7 +2,7 @@
 
 <p>The "Dot-Game" project is an interactive JavaScript game that provides an engaging and entertaining gaming experience. It offers a dynamic and visually appealing interface where players can enjoy a "click in a dot game".</p>
 
-<h2>Usage:</h2>
+<h2>How to Install:</h2>
 <p>To play the "Dot-Game" project, follow these steps:</p>
 <ul>
   <li><strong>Through the browser:</strong> You can play the game directly in your web browser by accessing the following link: <a href="https://giuseppeoliveira.github.io/Game-1/">Dot-Game</a>.</li>
